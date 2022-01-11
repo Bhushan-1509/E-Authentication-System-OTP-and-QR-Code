@@ -1,0 +1,20 @@
+.mainDiv{
+    width:65%;
+    margin:auto;
+    margin-top: 12%;
+    /* background-color: violet; */
+    height:40vh;
+    border-style: dashed;
+  }
+  input[type='file']{
+    width:60%;
+    margin:auto;
+    margin-top:6%;
+    
+  }
+  .form-label{
+      margin-left:38%;
+  }
+  img[src="images/file-upload.jpg"]{
+    margin-left:44%;
+  }

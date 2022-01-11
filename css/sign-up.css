@@ -1,0 +1,146 @@
+*{
+	margin: 0%;
+	padding: 0%;
+	font-family: sans-serif;
+}
+body{
+	background-image: url("../images/bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.btn {
+	border: 2px solid black;
+	background-color: white;
+	color: black;
+	padding: 11px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	height:7vh;
+	border-radius: 3px;
+	width: 60%;
+  }
+.formDiv{
+	margin-left:15%;
+}
+.submitBtn{
+	margin-left: 24%;
+}
+.cotainer{
+	height: 100%;
+	width: 100%;
+    /* background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(n1.jpg); */
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	margin-top:0%;
+}
+.info {
+	border-color: #2196F3;
+	color: dodgerblue;
+	font-size: 14px;
+  }
+  .info:hover {
+	background: #2196F3;
+	color: white;
+  }
+.form-box{
+	margin-top: 1vh;
+	height: 97vh;
+	width: 60%;
+	position: relative;
+	margin: 1% 2%;
+	background-color: #fff;
+	padding: 5px;
+	overflow: hidden;
+	margin-left: 6%;
+	/* margin: auto auto; */
+}
+.button-box{
+	width: 220px;
+	margin: 35px auto;
+	position: relative;
+	box-shadow: 0 0 20px 9px #E0FFFF;
+	border-radius: 30px;
+}
+.toggle-btn{
+	padding: 10px 30px;
+	cursor: pointer;
+	background: transparent;
+	border: 0;
+	position: relative;
+}
+.heading{
+	margin-top: -52%;
+}
+#btn{
+	top: 0;
+	left: 0;
+	position: absolute;
+	width: 110px;
+	height: 100%;
+	background: linear-gradient(to right, #8FBC8F,#DCDCDC);
+	border-radius: 30px;
+	transition: .5s;
+
+}
+.social-icon{
+	margin: 3px auto;
+	text-align: center;
+}
+.social-icon img{
+	margin: 3px auto;
+	text-align: center;
+}
+.input-group{
+	top: 180px;
+	position: absolute;
+	width: 280px;
+	transition: .5s;
+
+}
+
+.input-field{
+	font-size: 15px;
+
+	width: 100%;
+	padding: 10px 0;
+	margin: 5px 0;
+	border-left: 0;
+	border-right: 0;
+	border-top: 0;
+	border-bottom: 1px solid #999;
+	outline: none;
+	background: transparent;
+}
+.input-field:focus{
+	background-color: #dadfe4;
+}
+.submit-btn{
+	width: 85%;
+	padding: 10px 30px;
+	cursor: pointer;
+	display: block;
+	margin: auto;
+	background: linear-gradient(to right, #8FBC8F,#DCDCDC);
+	border: 0;
+	outline: none;
+	border-radius: 30px;
+}
+.check-box{
+	margin: 30px 10px 30px 0;
+
+}
+span{
+	color: #777;
+	font-size: 12px;
+	bottom: 68px;
+	position: absolute;
+}
+#logi{
+	left: 50px;
+
+}
+#register{
+	left: 450px;
+	
+}
