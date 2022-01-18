@@ -6,7 +6,7 @@ Here user can login by providing his credentials after that an OTP will be sent 
 
 
 ## Login via QR-Code
-	Here user can login by uploading QR-Code which he/she received after successful registration after uploading that qr-code file again and OTP will be sent on user's email address which he/she is supposed to enter for using our web portal.
+Here user can login by uploading QR-Code which he/she received after successful registration after uploading that qr-code file again and OTP will be sent on user's email address which he/she is supposed to enter for using our web portal.
 
 
 
